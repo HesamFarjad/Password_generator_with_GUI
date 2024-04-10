@@ -28,9 +28,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 
 
 <img width="607" alt="Screenshot 2024-04-10 at 20 13 07" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/423793da-764b-430d-abad-02a6728e6b7b">
-<img width="889" alt="Screenshot 2024-04-10 at 20 22 19" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/5112a559-6231-4969-a364-8325f24f2ef9">
-<img width="607" alt="Screenshot 2024-04-10 at 20 19 57" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/ca18ed82-6e08-4bdd-a011-313e20023b21">
-<img width="609" alt="Screenshot 2024-04-10 at 20 19 45" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/bc73af29-79d3-4d88-ac00-a092100df1fc">
-<img width="608" alt="Screenshot 2024-04-10 at 20 19 17" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/53cdaf99-964e-47e4-a006-6b702a67e2d7">
-
-
+<img width="889" alt="Screenshot 2024-04-10 at 20 22 19" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/757a3a11-663f-4fa0-aa30-cc4ce6ccc8f3">
+<img width="607" alt="Screenshot 2024-04-10 at 20 19 57" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/e0b5a49b-cd73-458a-b86f-cb1b0cbf70bc">
+<img width="609" alt="Screenshot 2024-04-10 at 20 19 45" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/2c415a90-4e3a-401c-a04c-4ca57ae9c187">
+<img width="608" alt="Screenshot 2024-04-10 at 20 19 17" src="https://github.com/HesamFarjad/Password_generator_with_GUI/assets/81914229/946ae4a7-493f-42bc-8189-ddd5e02857f4">
